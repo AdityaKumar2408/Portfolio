@@ -14,7 +14,7 @@ function ProjectDisplay() {
         <h1>{project.name}</h1>
         <img src={project.image} alt="" />
         <p><strong>Skills: </strong>{project.skill}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <Link to="https://portfolioadityakumar.netlify.app/" target="_blank">
+          <Link to={project.github} target="_blank">
         <Git/></Link></p>
         
     </div>
