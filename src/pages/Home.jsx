@@ -22,7 +22,7 @@ function Home() {
         <ol className='list'>
           <li className='item'>
             <h2>Front-End</h2>
-            <span> ReactJS, HTML, CSS, NPM, MaterialUI, StyledComponents </span>
+            <span> ReactJS, Redux ToolKit, NEXTJS, HTML, CSS, NPM, MaterialUI, StyledComponents </span>
           </li>
           <li className='item'>
             <h2>Back-End</h2>
@@ -30,7 +30,13 @@ function Home() {
           </li>
           <li className='item'>
             <h2>Languages</h2>
-            <span>JavaScript, Java, C++, Python, C</span>
+            <span>JavaScript, TypeScript, Java, C++, Python, C</span>
+          </li>
+          <li className='item'>
+            <h2>Coding Profile</h2>
+            <span><a href="https://leetcode.com/tinguchouhan7705/" target="_blank" rel="noopener noreferrer">Leetcode</a></span>
+            &nbsp;
+            <span><a href="https://codeforces.com/profile/NobelPrizeIsMine" target="_blank" rel="noopener noreferrer">CodeForces</a></span>
           </li>
         </ol>
         </div>
